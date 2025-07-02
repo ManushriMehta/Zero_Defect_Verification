@@ -94,8 +94,8 @@ zero-defect-verification/
 
 ## 👥 Contributors
 
-- Mehta Manushri Nirajbhai
-- Makwana Jyoti Kantilal
+- Mehta Manushri 
+- Makwana Jyoti 
 - Chaudhari Nirja
 - Zanzarukiya Krishna
   
