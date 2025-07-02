@@ -10,7 +10,7 @@ An AI-powered web application designed to detect defective packaging in real-tim
 - Identify key packaging defects using AI.
 - Build a robust image classification model.
 - Provide real-time feedback in the packaging line.
-- Achieve ≥ 95% defect detection accuracy.
+- Achieve ≥ 80% defect detection accuracy.
 - Ensure ease of use for non-technical staff.
 
 ---
