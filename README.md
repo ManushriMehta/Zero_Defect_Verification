@@ -93,11 +93,17 @@ zero-defect-verification/
 ---
 
 ## 👥 Contributors
+
+- Mehta Manushri Nirajbhai
+- Makwana Jyoti Kantilal
+- Chaudhari Nirja
+- Zanzarukiya Krishna
+  
 - 🤝 Open to contributions!
 ---
 
 ## 📃 License
 
-This project is for academic/demo purposes. Contact the author for any reuse or deployment queries.
+This project is for academic purposes. Contact the author for any reuse or deployment queries.
 
 ---
