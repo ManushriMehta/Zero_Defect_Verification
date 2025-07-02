@@ -1,3 +1,4 @@
+
 # 🛡️ Zero-Defect Packaging Verification using AI
 
 An AI-powered web application designed to detect defective packaging in real-time using image classification. Built with a pre-trained model from Teachable Machine and deployed via Streamlit, this project aims to eliminate human error and improve quality assurance in packaging lines.
@@ -46,3 +47,57 @@ An AI-powered web application designed to detect defective packaging in real-tim
    ```bash
    git clone https://github.com/your-username/zero-defect-verification.git
    cd zero-defect-verification
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Streamlit app**
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
+## 📂 Project Structure
+
+```
+zero-defect-verification/
+├── app.py                # Main Streamlit application
+├── saved_model/          # Teachable Machine exported model
+├── labels.txt            # Class labels (e.g., 0 good, 1 defective)
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+```
+
+---
+
+## 📊 Measurable Goals
+
+- ≥ 95% prediction accuracy on test data
+- Real-time response ≤ 2 seconds
+- Confidence score ≥ 90% for accurate predictions
+- Usable by non-technical users with minimal training
+
+---
+
+## 🚀 Future Enhancements
+
+- Add database for storing results and logs
+- Multi-defect classification support
+- Admin dashboard for defect trends
+- Mobile app version
+
+---
+
+## 👥 Contributors
+- 🤝 Open to contributions!
+---
+
+## 📃 License
+
+This project is for academic/demo purposes. Contact the author for any reuse or deployment queries.
+
+---
