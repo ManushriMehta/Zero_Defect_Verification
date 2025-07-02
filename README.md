@@ -76,9 +76,9 @@ zero-defect-verification/
 
 ## 📊 Measurable Goals
 
-- ≥ 95% prediction accuracy on test data
+- ≥ 70% prediction accuracy on test data
 - Real-time response ≤ 2 seconds
-- Confidence score ≥ 90% for accurate predictions
+- Confidence score ≥ 80% for accurate predictions
 - Usable by non-technical users with minimal training
 
 ---
