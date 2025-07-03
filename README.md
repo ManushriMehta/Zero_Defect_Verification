@@ -95,7 +95,7 @@ zero-defect-verification/
 ## 👥 Contributors
 
 - Mehta Manushri 
-- Makwana Jyoti 
+- Makvana Jyoti 
 - Chaudhari Nirja
 - Zanzarukiya Krishna
   
